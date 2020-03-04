@@ -17,11 +17,11 @@ Thank you for using LIGO, a smart contract language for Tezos. Please read this 
 | Section | What can you find there? |
 | --- | --- |
 | [A. Definitions](#a-definitions) | Some basic terms, defined in a way that will help you understand this agreement. Refer back up to this section for clarification. |
-| [B. Acceptable Use](#b-acceptable-use)| These are the basic rules you must follow when using your GitHub Account. |
-| [C. User-Generated Content](#c-user-generated-content) | You own the content you post on GitHub. However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide services to you. |
-| [D. Copyright Policy](#d-copyright-infringement-and-dmca-policy) | This section talks about how GitHub will respond if you believe someone is infringing your copyrights on GitHub. |
-| [E. Intellectual Property Notice](#e-intellectual-property-notice) | This describes GitHub's rights in the website and service. |
-| [F. Additional Service Terms](#f-github-additional-product-terms) | We have a few specific rules for GitHub's features and products. |
+| [B. Acceptable Use](#b-acceptable-use)| These are the basic rules you must follow when using the Services and Website. |
+| [C. User-Generated Content](#c-user-generated-content) | You own the content you post on the Services and Website. However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide services to you. |
+| [D. Copyright Infringement](#d-copyright-infringement) | This section talks about how LIGO will respond if you believe someone is infringing your copyrights. |
+| [E. Intellectual Property Notice](#e-intellectual-property-notice) | This describes LIGO's rights in the Website and Services. |
+| [F. Additional Service Terms](#f-additional-service-terms) | We have a few specific rules for LIGO's features and products. |
 | [G. Disclaimer of Warranties](#g-disclaimer-of-warranties) | We provide our service as is, and we make no promises or guarantees about this service. **Please read this section carefully; you should understand what to expect.** |
 | [H. Limitation of Liability](#h-limitation-of-liability) | We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. **Please read this section carefully; it limits our obligations to you.** |
 | [I. Release and Indemnification](#i-release-and-indemnification) | You are fully responsible for your use of the service. |
@@ -156,7 +156,7 @@ We reserve the right at any time and from time to time to modify or discontinue,
 ### K. Miscellaneous
 
 #### 1. Governing Law
-Except to the extent applicable law provides otherwise, this Agreement between you and GitHub and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of California, without regard to conflict of law provisions. You and GitHub agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of San Francisco, California.
+Except to the extent applicable law provides otherwise, this Agreement between you and LIGO and any access to or use of the Website or the Service are governed by the federal laws of France. You and LIGO agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of Paris, France.
 
 #### 2. Non-Assignability
 LIGO may assign or delegate these Terms of Service and/or the [LIGO Privacy Policy](https://ADDURL), in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
@@ -165,10 +165,10 @@ LIGO may assign or delegate these Terms of Service and/or the [LIGO Privacy Poli
 Throughout this Agreement, each section includes titles and brief summaries of the following terms and conditions. These section titles and brief summaries are not legally binding.
 
 #### 4. Severability, No Waiver, and Survival
-If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties’ original intent. The remaining portions will remain in full force and effect. Any failure on the part of GitHub to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision. Our rights under this Agreement will survive any termination of this Agreement.
+If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties’ original intent. The remaining portions will remain in full force and effect. Any failure on the part of LIGO to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision. Our rights under this Agreement will survive any termination of this Agreement.
 
 #### 5. Amendments; Complete Agreement
-This Agreement may only be modified by a written amendment signed by an authorized representative of LIGO, or by the posting by LIGO of a revised version in accordance with [Section Q. Changes to These Terms](#q-changes-to-these-terms). These Terms of Service, together with the LIGO Privacy Policy, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and GitHub relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
+This Agreement may only be modified by a written amendment signed by an authorized representative of LIGO, or by the posting by LIGO of a revised version in accordance with [Section Q. Changes to These Terms](#q-changes-to-these-terms). These Terms of Service, together with the LIGO Privacy Policy, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and LIGO relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
 
 #### 6. Survival
 All provisions of this Agreement which, by their nature, should survive termination *will* survive termination — including, without limitation: ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
