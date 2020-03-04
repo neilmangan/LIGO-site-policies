@@ -155,23 +155,20 @@ We reserve the right at any time and from time to time to modify or discontinue,
 
 ### K. Miscellaneous
 
-#### 1. Governing Law
-Except to the extent applicable law provides otherwise, this Agreement between you and LIGO and any access to or use of the Website or the Service are governed by the federal laws of France. You and LIGO agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of Paris, France.
-
-#### 2. Non-Assignability
+#### 1. Non-Assignability
 LIGO may assign or delegate these Terms of Service and/or the [LIGO Privacy Policy](https://ADDURL), in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
 
-#### 3. Section Headings and Summaries
+#### 2. Section Headings and Summaries
 Throughout this Agreement, each section includes titles and brief summaries of the following terms and conditions. These section titles and brief summaries are not legally binding.
 
-#### 4. Severability, No Waiver, and Survival
+#### 3. Severability, No Waiver, and Survival
 If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties’ original intent. The remaining portions will remain in full force and effect. Any failure on the part of LIGO to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision. Our rights under this Agreement will survive any termination of this Agreement.
 
-#### 5. Amendments; Complete Agreement
+#### 4. Amendments; Complete Agreement
 This Agreement may only be modified by a written amendment signed by an authorized representative of LIGO, or by the posting by LIGO of a revised version in accordance with [Section Q. Changes to These Terms](#q-changes-to-these-terms). These Terms of Service, together with the LIGO Privacy Policy, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and LIGO relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
 
-#### 6. Survival
+#### 5. Survival
 All provisions of this Agreement which, by their nature, should survive termination *will* survive termination — including, without limitation: ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
 
-#### 7. Questions
+#### 6. Questions
 Questions about the Terms of Service? [Contact us](https://ligolang.org/contact/).
