@@ -59,7 +59,7 @@ All use of data gathered through scraping must comply with the [LIGO Privacy Pol
 ### 6. Privacy
 Misuse of User Personal Information is prohibited.
 
-Any person, entity, or service collecting data from the Service must comply with the [GitHub Privacy Policy](https://ADDURL), particularly in regards to the collection of User Personal Information. If you collect any User Personal Information from the Service, you agree that you will only use that User Personal Information for the purpose for which that User has authorized it. You agree that you will reasonably secure any User Personal Information you have gathered from the Service, and you will respond promptly to complaints, removal requests, and "do not contact" requests from us or other users.
+Any person, entity, or service collecting data from the Service must comply with the [LIGO Privacy Policy](https://ADDURL), particularly in regards to the collection of User Personal Information. If you collect any User Personal Information from the Service, you agree that you will only use that User Personal Information for the purpose for which that User has authorized it. You agree that you will reasonably secure any User Personal Information you have gathered from the Service, and you will respond promptly to complaints, removal requests, and "do not contact" requests from us or other users.
 
 ### 7. Excessive Bandwidth Use
 The Service's bandwidth limitations vary based on the features you use. If we determine your bandwidth usage to be significantly excessive in relation to other users of similar features, we reserve the right to suspend your access, throttle your file hosting, or otherwise limit your activity until you can reduce your bandwidth consumption.
@@ -69,8 +69,8 @@ The Service's bandwidth limitations vary based on the features you use. If we de
 
 You may not promote or distribute content or activity that is illegal or otherwise prohibited by our [Terms of Service](/ADDURL), [Privacy Policy](/ADDURL/), or this [Acceptable Use Policy](/ADDURL/), including excessive automated bulk activity (for example, spamming), misrepresentation, deception or passing off your activity as being supported or endorsed by LIGO without our express written consent.
 
-### 9. Spam and Inauthentic Activity on GitHub
-Automated excessive bulk activity and coordinated inauthentic activity, such as spamming, are prohibited on GitHub. Prohibited activities include:
+### 9. Spam and Inauthentic Activity
+Automated excessive bulk activity and coordinated inauthentic activity, such as spamming, are prohibited on the LIGO Website and Services. Prohibited activities include:
 * bulk distribution of promotions and advertising prohibited by LIGO terms and policies
 * inauthentic interactions, such as fake or automated inauthentic activity
 * creation of or participation in secondary markets for the purpose of the proliferation of inauthentic activity
