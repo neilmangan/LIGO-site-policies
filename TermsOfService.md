@@ -17,23 +17,19 @@ Thank you for using LIGO, a smart contract language for Tezos. Please read this 
 | Section | What can you find there? |
 | --- | --- |
 | [A. Definitions](#a-definitions) | Some basic terms, defined in a way that will help you understand this agreement. Refer back up to this section for clarification. |
-| [B. Account Terms](#b-account-terms) | These are the basic requirements of having an Account on GitHub.  |
-| [C. Acceptable Use](#c-acceptable-use)| These are the basic rules you must follow when using your GitHub Account. |
-| [D. User-Generated Content](#d-user-generated-content) | You own the content you post on GitHub. However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide services to you. |
-| [F. Copyright & DMCA Policy](#f-copyright-infringement-and-dmca-policy) | This section talks about how GitHub will respond if you believe someone is infringing your copyrights on GitHub. |
-| [G. Intellectual Property Notice](#g-intellectual-property-notice) | This describes GitHub's rights in the website and service. |
-| [I. Additional Service Terms](#i-github-additional-product-terms) | We have a few specific rules for GitHub's features and products. |
-| [K. Payment](#k-payment) | You are responsible for payment. We are responsible for billing you accurately. |
-| [L. Cancellation and Termination](#l-cancellation-and-termination) | You may cancel this agreement and close your Account at any time. |
-| [M. Communications with GitHub](#m-communications-with-github) | We only use email and other electronic means to stay in touch with our users. We do not provide phone support. |
-| [N. Disclaimer of Warranties](#n-disclaimer-of-warranties) | We provide our service as is, and we make no promises or guarantees about this service. **Please read this section carefully; you should understand what to expect.** |
-| [O. Limitation of Liability](#o-limitation-of-liability) | We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. **Please read this section carefully; it limits our obligations to you.** |
-| [P. Release and Indemnification](#p-release-and-indemnification) | You are fully responsible for your use of the service. |
-| [Q. Changes to these Terms of Service](#q-changes-to-these-terms) | We may modify this agreement, but we will give you 30 days' notice of changes that affect your rights. |
-| [R. Miscellaneous](#r-miscellaneous) | Please see this section for legal details including our choice of law. |
+| [B. Acceptable Use](#b-acceptable-use)| These are the basic rules you must follow when using your GitHub Account. |
+| [C. User-Generated Content](#c-user-generated-content) | You own the content you post on GitHub. However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide services to you. |
+| [D. Copyright Policy](#d-copyright-infringement-and-dmca-policy) | This section talks about how GitHub will respond if you believe someone is infringing your copyrights on GitHub. |
+| [E. Intellectual Property Notice](#e-intellectual-property-notice) | This describes GitHub's rights in the website and service. |
+| [F. Additional Service Terms](#f-github-additional-product-terms) | We have a few specific rules for GitHub's features and products. |
+| [G. Disclaimer of Warranties](#g-disclaimer-of-warranties) | We provide our service as is, and we make no promises or guarantees about this service. **Please read this section carefully; you should understand what to expect.** |
+| [H. Limitation of Liability](#h-limitation-of-liability) | We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. **Please read this section carefully; it limits our obligations to you.** |
+| [I. Release and Indemnification](#i-release-and-indemnification) | You are fully responsible for your use of the service. |
+| [J. Changes to these Terms of Service](#j-changes-to-these-terms) | We may modify this agreement, but we will give you 30 days' notice of changes that affect your rights. |
+| [K. Miscellaneous](#k-miscellaneous) | Please see this section for legal details including our choice of law. |
 
 ### The LIGO Terms of Service
-Updated: March X, 2020
+Updated: March X, 2020.
 Based on a fork of the GitHub Terms of Service, with thanks.
 
 
@@ -47,14 +43,14 @@ Based on a fork of the GitHub Terms of Service, with thanks.
 5. “The User,” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using the Website or Service. A User must be at least 18 years of age or the age of majority in the jurisdiction that they reside or access the Website or Services.
 6. The “Website” refers to LIGO’s website located at [ligolang.org](https://ligolang.org/), and all content, services, and products provided by LIGO at or through the Website. It also refers to LIGO-owned subdomains of ligolang.org, such as [ide.ligolang.org](https://ide.ligolang.org/). Occasionally, websites owned or operated by LIGO may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
 
-### C. Acceptable Use
+### B. Acceptable Use
 **Short version:** *LIGO is collaborative project with users and contributors from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow the terms of this section, which include some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.*
 
 Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control or sanctions laws applicable to LIGO's operations, or other laws in your jurisdiction. You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.
 
 You agree that you will not under any circumstances violate our [Acceptable Use Policies](https://ADDURL).
 
-### D. User-Generated Content
+### C. User-Generated Content
 **Short version:** *You own content you create, but you allow us certain rights to it, so that we can display and share the content you post. You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service. We have the right to remove content if we need to.*
 
 #### 1. Responsibility for User-Generated Content
@@ -88,10 +84,10 @@ You retain all moral rights to Your Content that you upload, publish, or submit 
 
 To the extent this agreement is not enforceable by applicable law, you grant LIGO the rights we need to use Your Content without attribution and to make reasonable adaptations of Your Content as necessary to render the Website and provide the Service.
 
-### F. Copyright Infringement
+### D. Copyright Infringement
 If you believe that content on our website violates your copyright, please contact. If you are a copyright owner and you believe that content published by LIGO or contained in the Website or Services violates your rights, please contact us by emailing contact@ligolang.org. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
 
-### G. Intellectual Property Notice
+### E. Intellectual Property Notice
 **Short version:** *We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.*
 
 #### 1. LIGO's Rights to Content
@@ -109,7 +105,7 @@ Use of source code, applications and other software published by LIGO (see, for 
 
 We’re always trying to improve of products and services, and your feedback will help us do that. If you choose to give us any ideas, know-how, algorithms, code contributions, suggestions, enhancement requests, recommendations or any other feedback for our products or services (collectively, “Feedback”), you acknowledge and agree that LIGO will have a royalty-free, fully paid-up, worldwide, transferable, sub-licensable, irrevocable and perpetual license to implement, use, modify, commercially exploit and/or incorporate the Feedback into our products, services, and documentation.
 
-### I. Additional Service Terms
+### F. Additional Service Terms
 **Short version:** *Some features of the Services require that you comply with terms and conditions specific to those Services. We are grouping these special terms and conditions here for convenience.*
 
 Some Service features may be subject to additional terms specific to that feature or product. By accessing or using the Services, you agree to be bound any special terms or conditions identified or expressly consented to when using the Service, and as set out below.
@@ -120,14 +116,14 @@ Some Service features may be subject to additional terms specific to that featur
 
 When using the LIGO compiler found at [ide.ligolang.org](https://ide.ligolang.org/), source code compiled using the **Deploy** command will be deployed to the Tezos test network blockchain. Once deployed, the compiled code is published to a publicly accessible ledger outside of LIGO's control and cannot be removed. As the compiled code cannot be deleted or removed, it must not contain any personal information or personally identifiable information.
 
-### N. Disclaimer of Warranties
+### G. Disclaimer of Warranties
 **Short version:** *We provide our service as is, and we make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect.*
 
 LIGO provides the Website and the Service “as is” and “as available,” without warranty of any kind. Without limiting this, we expressly disclaim all warranties, whether express, implied or statutory, regarding the Website and the Service including without limitation any warranty of merchantability, fitness for a particular purpose, title, security, accuracy and non-infringement.
 
 LIGO does not warrant that the Service will meet your requirements; that the Service will be uninterrupted, timely, secure, or error-free; that the information provided through the Service is accurate, reliable or correct; that any defects or errors will be corrected; that the Service will be available at any particular time or location; or that the Service is free of viruses or other harmful components. You assume full responsibility and risk of loss resulting from your downloading and/or use of files, information, content or other material obtained from the Service.
 
-### O. Limitation of Liability
+### H. Limitation of Liability
 **Short version:** *We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you.*
 
 You understand and agree that we will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages, however arising, that result from
@@ -143,21 +139,21 @@ You understand and agree that we will not be liable to you or any third party fo
 
 Our liability is limited whether or not we have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose. We will have no liability for any failure or delay due to matters beyond our reasonable control.
 
-### P. Release and Indemnification
+### I. Release and Indemnification
 **Short version:** *You are responsible for your use of the service. If you harm someone else or get into a dispute with someone else, we will not be involved.*
 
 If you have a dispute with one or more Users, you agree to release LIGO from any and all claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
 
 You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys’ fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that LIGO (1) promptly gives you written notice of the claim, demand, suit or proceeding; (2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases LIGO of all liability); and (3) provides to you all reasonable assistance, at your expense.
 
-### Q. Changes to These Terms
+### J. Changes to These Terms
 **Short version:** *We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them.*
 
 We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. We will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. For non-material modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service. You can view all changes to these Terms in our [Site Policy](https://github.com/github/site-policy) repository.
 
 We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice.
 
-### R. Miscellaneous
+### K. Miscellaneous
 
 #### 1. Governing Law
 Except to the extent applicable law provides otherwise, this Agreement between you and GitHub and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of California, without regard to conflict of law provisions. You and GitHub agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of San Francisco, California.
