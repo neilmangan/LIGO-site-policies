@@ -1,5 +1,5 @@
 ---
-title: GitHub Terms of Service
+title: LIGO Terms of Service
 redirect_from:
   - /tos/
   - /terms/
@@ -22,7 +22,7 @@ Thank you for using LIGO, a smart contract language for Tezos. Please read this 
 | [D. User-Generated Content](#d-user-generated-content) | You own the content you post on GitHub. However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide services to you. |
 | [F. Copyright & DMCA Policy](#f-copyright-infringement-and-dmca-policy) | This section talks about how GitHub will respond if you believe someone is infringing your copyrights on GitHub. |
 | [G. Intellectual Property Notice](#g-intellectual-property-notice) | This describes GitHub's rights in the website and service. |
-| [I. Additional Product Terms](#i-github-additional-product-terms) | We have a few specific rules for GitHub's features and products. |
+| [I. Additional Service Terms](#i-github-additional-product-terms) | We have a few specific rules for GitHub's features and products. |
 | [K. Payment](#k-payment) | You are responsible for payment. We are responsible for billing you accurately. |
 | [L. Cancellation and Termination](#l-cancellation-and-termination) | You may cancel this agreement and close your Account at any time. |
 | [M. Communications with GitHub](#m-communications-with-github) | We only use email and other electronic means to stay in touch with our users. We do not provide phone support. |
@@ -39,77 +39,43 @@ Updated: March X, 2020
 ### A. Definitions
 **Short version:** *We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.*
 
-1. An "Account" represents your legal relationship with GitHub. A “User Account” represents an individual User’s authorization to log in to and use the Service and serves as a User’s identity on GitHub. “Organizations” are shared workspaces that may be associated with a single entity or with one or more Users where multiple Users can collaborate across many projects at once. A User Account can be a member of any number of Organizations.
-2. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the LIGO Privacy Statement, available at [github.com/site/privacy](https://github.com/site/privacy)) and procedures that we may publish from time to time on the Website. Most of our site policies are available at [help.github.com/categories/site-policy](/categories/site-policy/).
-4. “Content” refers to content featured or displayed through the Website, including without limitation code, text, data, articles, images, photographs, graphics, software, applications, packages, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users. "Your Content" is Content that you create or own.
-5. “LIGO,” “We,” and “Us” refer to Ligo LANG SASU (128 rue de la Boetie, 75008, Paris), as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, employees and authorized contributors.
-6. The “Service” refers to the applications, software, products, and services provided by LIGO.
-7. “The User,” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using the Website or Service; that accesses or uses any part of the Account; or that directs the use of the Account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for business or government Accounts (See [Section B(5): Additional Terms](#5-additional-terms)).
-8. The “Website” refers to GitHub’s website located at [github.com](https://github.com/), and all content, services, and products provided by GitHub at or through the Website. It also refers to GitHub-owned subdomains of github.com, such as [education.github.com](https://education.github.com/) and [pages.github.com](https://pages.github.com/). These Terms also govern GitHub’s conference websites, such as [githubuniverse.com](https://githubuniverse.com/), and product websites, such as [atom.io](https://atom.io/). Occasionally, websites owned by GitHub may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
-
-### B. Account Terms
-**Short version:** *User Accounts and Organizations have different administrative controls; a human must create your Account; you must be 13 or over; you must provide a valid email address; and you may not have more than one free Account. You alone are responsible for your Account and anything that happens while you are signed in to or using your Account. You are responsible for keeping your Account secure.*
-
-#### 1. Account Controls
-- Users. Subject to these Terms, you retain ultimate administrative control over your User Account and the Content within it.
-
-- Organizations. The "owner" of an Organization that was created under these Terms has ultimate administrative control over that Organization and the Content within it. Within the Service, an owner can manage User access to the Organization’s data and projects. An Organization may have multiple owners, but there must be at least one User Account designated as an owner of an Organization. If you are the owner of an Organization under these Terms, we consider you responsible for the actions that are performed on or through that Organization.
-
-#### 2. Required Information
-You must provide a valid email address in order to complete the signup process. Any other information requested, such as your real name, is optional, unless you are accepting these terms on behalf of a legal entity (in which case we need more information about the legal entity) or if you opt for a [paid Account](#k-payment), in which case additional information will be necessary for billing purposes.
-
-#### 3. Account Requirements
-We have a few simple rules for User Accounts on GitHub's Service.
-- You must be a human to create an Account. Accounts registered by "bots" or other automated methods are not permitted. We do permit machine accounts:
-- A machine account is an Account set up by an individual human who accepts the Terms on behalf of the Account, provides a valid email address, and is responsible for its actions. A machine account is used exclusively for performing automated tasks. Multiple users may direct the actions of a machine account, but the owner of the Account is ultimately responsible for the machine's actions. You may maintain no more than one free machine account in addition to your free User Account.
-- One person or legal entity may maintain no more than one free Account (if you choose to control a machine account as well, that's fine, but it can only be used for running a machine).
-- You must be age 13 or older. While we are thrilled to see brilliant young coders get excited by learning to program, we must comply with United States law. GitHub does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, we will [terminate that User’s Account immediately](#l-cancellation-and-termination). If you are a resident of a country outside the United States, your country’s minimum age may be older; in such a case, you are responsible for complying with your country’s laws.
-- Your login may only be used by one person — i.e., a single login may not be shared by multiple people. A paid Organization  may only provide access to as many User Accounts as your subscription allows.
-- You may not use GitHub in violation of export control or sanctions laws of the United States or any other applicable jurisdiction. You may not use GitHub if you are or are working on behalf of a [Specially Designated National (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) or a person subject to similar blocking or denied party prohibitions administered by a U.S. government agency.  GitHub may allow persons in certain sanctioned countries or territories to access certain GitHub services pursuant to U.S. government authorizations.  For more information, please see our [Export Controls policy](https://help.github.com/en/articles/github-and-export-controls).
-
-#### 4. User Account Security
-You are responsible for keeping your Account secure while you use our Service. We offer tools such as two-factor authentication to help you maintain your Account's security, but the content of your Account and its security are up to you.
-- You are responsible for all content posted and activity that occurs under your Account (even when content is posted by others who have Accounts under your Account).
-- You are responsible for maintaining the security of your Account and password. GitHub cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
-- You will promptly [notify GitHub](https://support.github.com/contact) if you become aware of any unauthorized use of, or access to, our Service through your Account, including any unauthorized use of your password or Account.
-
-#### 5. Additional Terms
-In some situations, third parties' terms may apply to your use of GitHub. For example, you may be a member of an organization on GitHub with its own terms or license agreements; you may download an application that integrates with GitHub; or you may use GitHub to authenticate to another service. Please be aware that while these Terms are our full agreement with you, other parties' terms govern their relationships with you.
-
-If you are a government User or otherwise accessing or using any GitHub Service in a government capacity, this [Government Amendment to GitHub Terms of Service](/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users/) applies to you, and you agree to its provisions.
-
-If you have signed up for GitHub Enterprise Cloud, the [Enterprise Cloud Addendum](/articles/github-enterprise-cloud-addendum/) applies to you, and you agree to its provisions.
+1. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the LIGO Privacy Statement, available at [github.com/site/privacy](https://github.com/site/privacy)) and procedures that we may publish from time to time on the Website. Most of our site policies are available at [help.github.com/categories/site-policy](/categories/site-policy/).
+2. “Content” refers to content featured or displayed through the Website, including without limitation code, text, data, articles, images, photographs, graphics, software, applications, packages, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users. "Your Content" is Content that you create or own.
+3. “LIGO,” “We,” and “Us” refer to Ligo LANG SASU (128 rue de la Boetie, 75008, Paris), as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, employees and authorized contributors.
+4. The “Service” refers to the applications, software, products, and services provided by LIGO.
+5. “The User,” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using the Website or Service. A User must be at least 18 years of age or the age of majority in the jurisdiction that they reside or access the Website or Services.
+6. The “Website” refers to LIGO’s website located at [ligolang.org](https://ligolang.org/), and all content, services, and products provided by LIGO at or through the Website. It also refers to LIGO-owned subdomains of ligolang.org, such as [ide.ligolang.org](https://ide.ligolang.org/). Occasionally, websites owned or operated by LIGO may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
 
 ### C. Acceptable Use
-**Short version:** *GitHub hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow the terms of this section, which include some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.*
+**Short version:** *LIGO is collaborative project with users and contributors from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow the terms of this section, which include some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.*
 
-Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control or sanctions laws, or other laws in your jurisdiction. You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.
+Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control or sanctions laws applicable to LIGO's operations, or other laws in your jurisdiction. You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.
 
-You agree that you will not under any circumstances violate our [Acceptable Use Policies](https://help.github.com/articles/github-acceptable-use-policies) or [Community Guidelines](https://help.github.com/en/articles/github-community-guidelines).
+You agree that you will not under any circumstances violate our [Acceptable Use Policies](https://ADDURL).
 
 ### D. User-Generated Content
-**Short version:** *You own content you create, but you allow us certain rights to it, so that we can display and share the content you post. You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service. We have the right to remove content or close Accounts if we need to.*
+**Short version:** *You own content you create, but you allow us certain rights to it, so that we can display and share the content you post. You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service. We have the right to remove content if we need to.*
 
 #### 1. Responsibility for User-Generated Content
 You may create or upload User-Generated Content while using the Service. You are solely responsible for the content of, and for any harm resulting from, any User-Generated Content that you post, upload, link to or otherwise make available via the Service, regardless of the form of that Content. We are not responsible for any public display or misuse of your User-Generated Content.
 
-#### 2. GitHub May Remove Content
-We do not pre-screen User-Generated Content, but we have the right (though not the obligation) to refuse or remove any User-Generated Content that, in our sole discretion, violates any GitHub terms or policies.
+#### 2. LIGO May Remove Content
+We do not pre-screen User-Generated Content, but we have the right (though not the obligation) to refuse or remove any User-Generated Content that, in our sole discretion, violates any LIGO terms or policies or is inconsistent with the LIGO community.
 
 #### 3. Ownership of Content, Right to Post, and License Grants
 You retain ownership of and responsibility for Your Content. If you're posting anything you did not create yourself or do not own the rights to, you agree that you are responsible for any Content you post; that you will only submit Content that you have the right to post; and that you will fully comply with any third party licenses relating to Content you post.
 
-Because you retain ownership of and responsibility for Your Content, we need you to grant us — and other GitHub Users — certain legal permissions, listed in Sections D.4 — D.7. These license grants apply to Your Content. If you upload Content that already comes with a license granting GitHub the permissions we need to run our Service, no additional license is required. You understand that you will not receive any payment for any of the rights granted in Sections D.4 — D.7. The licenses you grant to us will end when you remove Your Content from our servers, unless other Users have forked it.
+Because you retain ownership of and responsibility for Your Content, we need you to grant us — and other LIGO Users — certain legal permissions, listed in this agreement and policies incorporated by reference. These license grants apply to Your Content. If you upload Content that already comes with a license granting LIGO the permissions we need to run our Service, no additional license is required. You understand that you will not receive any payment for any of the rights granted in this Agreement. The licenses you grant to us will end when you remove Your Content from our servers, unless other Users have used or forked it.
 
 #### 4. License Grant to Us
 We need the legal right to do things like host Your Content, publish it, and share it. You grant us and our legal successors the right to store, parse, and display Your Content, and make incidental copies as necessary to render the Website and provide the Service. This includes the right to do things like copy it to our database and make backups; show it to you and other users; parse it into a search index or otherwise analyze it on our servers; share it with other users; and perform it, in case Your Content is something like music or video.
 
-This license does not grant GitHub the right to sell Your Content or otherwise distribute or use it outside of our provision of the Service.
+This license does not grant LIGO the right to sell Your Content or otherwise distribute or use it outside of our provision of the Service.
 
 #### 5. License Grant to Other Users
-Any User-Generated Content you post publicly, including issues, comments, and contributions to other Users' repositories, may be viewed by others. By setting your repositories to be viewed publicly, you agree to allow others to view and "fork" your repositories (this means that others may make their own copies of Content from your repositories in repositories they control).
+Any User-Generated Content you post publicly, including issues, comments, source code retained for the purpose of generating shared links and compiled source code deployed to the blockchain or other servers outside of LIGO's control, may be viewed by others. 
 
-If you set your pages and repositories to be viewed publicly, you grant each User of GitHub a nonexclusive, worldwide license to use, display, and perform Your Content through the GitHub Service and to reproduce Your Content solely on GitHub as permitted through GitHub's functionality (for example, through forking). You may grant further rights if you [adopt a license](/articles/adding-a-license-to-a-repository/#including-an-open-source-license-in-your-repository). If you are uploading Content you did not create or own, you are responsible for ensuring that the Content you upload is licensed under terms that grant these permissions to other GitHub Users.
+By sharing this User-Generated content publicly, you grant each User of LIGO and the LIGO Website and Services a nonexclusive, worldwide license to use, display, and perform Your Content and to reproduce Your Content. If you are uploading Content you did not create or own, you are responsible for ensuring that the Content you upload is licensed under terms that grant these permissions to other LIGO Users.
 
 #### 6. Contributions Under Repository License
 Whenever you make a contribution to a repository containing notice of a license, you license your contribution under the same terms, and you agree that you have the right to license your contribution under those terms. If you have a separate agreement to license your contributions under different terms, such as a contributor license agreement, that agreement will supersede.
@@ -117,64 +83,29 @@ Whenever you make a contribution to a repository containing notice of a license,
 Isn't this just how it works already? Yep. This is widely accepted as the norm in the open-source community; it's commonly referred to by the shorthand "inbound=outbound". We're just making it explicit.
 
 #### 7. Moral Rights
-You retain all moral rights to Your Content that you upload, publish, or submit to any part of the Service, including the rights of integrity and attribution. However, you waive these rights and agree not to assert them against us, to enable us to reasonably exercise the rights granted in Section D.4, but not otherwise.
+You retain all moral rights to Your Content that you upload, publish, or submit to any part of the Service, including the rights of integrity and attribution. However, you waive these rights and agree not to assert them against us, to enable us to reasonably exercise the rights granted to Us in thie Agreement, but not otherwise.
 
-To the extent this agreement is not enforceable by applicable law, you grant GitHub the rights we need to use Your Content without attribution and to make reasonable adaptations of Your Content as necessary to render the Website and provide the Service.
+To the extent this agreement is not enforceable by applicable law, you grant LIGO the rights we need to use Your Content without attribution and to make reasonable adaptations of Your Content as necessary to render the Website and provide the Service.
 
-### E. Private Repositories
-**Short version:** *You may have access to private repositories. We treat the content of private repositories as confidential, and we only access it for support reasons, with your consent, or if required to for security reasons.*
-
-#### 1. Control of Private Repositories
-Some Accounts may have private repositories, which allow the User to control access to Content.
-
-#### 2. Confidentiality of Private Repositories
-GitHub considers the contents of private repositories to be confidential to you. GitHub will protect the contents of private repositories from unauthorized use, access, or disclosure in the same manner that we would use to protect our own confidential information of a similar nature and in no event with less than a reasonable degree of care.
-
-#### 3. Access
-GitHub employees may only access the content of your private repositories in the following situations:
-- With your consent and knowledge, for support reasons. If GitHub accesses a private repository for support reasons, we will only do so with the owner’s consent and knowledge.
-- When access is required for security reasons, including when access is required to maintain ongoing confidentiality, integrity, availability and resilience of GitHub's systems and Service.
-
-You may choose to enable additional access to your private repositories. For example:
-- You may enable various GitHub services or features that require additional rights to Your Content in private repositories. These rights may vary depending on the service or feature, but GitHub will continue to treat your private repository Content as confidential. If those services or features require rights in addition to those we need to provide the GitHub Service, we will provide an explanation of those rights.
-
-#### 4. Exclusions
-If we have reason to believe the contents of a private repository are in violation of the law or of these Terms, we have the right to access, review, and remove them. Additionally, we may be [compelled by law](/github/site-policy/github-privacy-statement#for-legal-disclosure) to disclose the contents of your private repositories.
-
-### F. Copyright Infringement and DMCA Policy
-If you believe that content on our website violates your copyright, please contact us in accordance with our [Digital Millennium Copyright Act Policy](/articles/dmca-takedown-policy/). If you are a copyright owner and you believe that content on GitHub violates your rights, please contact us via [our convenient DMCA form](https://github.com/contact/dmca) or by emailing copyright@github.com. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
-
-We will terminate the Accounts of [repeat infringers](/articles/dmca-takedown-policy/#e-repeated-infringement) of this policy.
+### F. Copyright Infringement
+If you believe that content on our website violates your copyright, please contact. If you are a copyright owner and you believe that content published by LIGO or contained in the Website or Services violates your rights, please contact us by emailing contact@ligolang.org. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
 
 ### G. Intellectual Property Notice
 **Short version:** *We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.*
 
-#### 1. GitHub's Rights to Content
-GitHub and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service. We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright © GitHub, Inc. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from GitHub.
+#### 1. LIGO's Rights to Content
+LIGO and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service. We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright © Ligo LANG SASU. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from LIGO.
 
-#### 2. GitHub Trademarks and Logos
-If you’d like to use GitHub’s trademarks, you must follow all of our trademark guidelines, including those on our logos page: https://github.com/logos.
+Notwithstanding LIGO's ownership of the Content set out above, the LIGO project and source code are published under the MIT Open Source license. The project copyright and license terms can be found on the [Ligo Project Repository](https://gitlab.com/ligolang/ligo/-/blob/dev/LICENSE.md).
 
-#### 3. License to GitHub Policies
-This Agreement is licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/github/site-policy#license).
-
-### H. API Terms
-**Short version:** *You agree to these Terms of Service, plus this Section H, when using any of GitHub's APIs (Application Provider Interface), including use of the API through a third party product that accesses GitHub.*
-
-Abuse or excessively frequent requests to GitHub via the API may result in the temporary or permanent suspension of your Account's access to the API. GitHub, in our sole discretion, will determine abuse or excessive usage of the API. We will make a reasonable attempt to warn you via email prior to suspension.
-
-You may not share API tokens to exceed GitHub's rate limitations.
-
-You may not use the API to download data or Content from GitHub for spamming purposes, including for the purposes of selling GitHub users' personal information, such as to recruiters, headhunters, and job boards.
-
-All use of the GitHub API is subject to these Terms of Service and the [GitHub Privacy Statement](https://github.com/site/privacy).
-
-GitHub may offer subscription-based access to our API for those Users who require high-throughput access or access that would result in resale of GitHub's Service.
-
-### I. GitHub Additional Product Terms
+### I. LIGO Additional Service Terms
 **Short version:** *You need to follow certain specific terms and conditions for GitHub's various features and products, and you agree to the Supplemental Terms and Conditions when you agree to this Agreement.*
 
 Some Service features may be subject to additional terms specific to that feature or product as set forth in the GitHub Additional Product Terms. By accessing or using the Services, you also agree to the [GitHub Additional Product Terms](/github/site-policy/github-additional-product-terms).
+
+#### 1. Restrictions on Content Deployed to Blockchain
+
+When using the LIGO compiler found at [ide.ligolang.org](https://ide.ligolang.org/), source code compiled using the **Deploy** company will be deployed to the Tezos test network blockchain. Once deployed, the compiled code is published to a publicly accessible ledger outside of LIGO's control and cannot be removed. As the compiled code cannot be deleted or removed, the compiled code must not contain any personally identifiablBeta Previews may not be supported and may be changed at any time without notice. In addition, Beta Previews are not subject to the same security measures and auditing to which the Service has been and is subject. **By using a Beta Preview, you use it at your own risk.**
 
 ### J. Beta Previews
 **Short version:** *Beta Previews may not be supported or may change at any time, you may receive confidential information through those programs that must remain confidential while the program is private, and we'd love your feedback to make our Beta Previews better.*
