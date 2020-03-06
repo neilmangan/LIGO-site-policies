@@ -19,7 +19,7 @@ Thank you for using LIGO, a smart contract language for Tezos. Please read this 
 | [A. Definitions](#a-definitions) | Some basic terms, defined in a way that will help you understand this agreement. Refer back up to this section for clarification. |
 | [B. Acceptable Use](#b-acceptable-use)| These are the basic rules you must follow when using the Services and Website. |
 | [C. User-Generated Content](#c-user-generated-content) | You own the content you post on the Services and Website. However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide services to you. |
-| [D. Copyright Infringement](#d-copyright-infringement) | This section talks about how LIGO will respond if you believe someone is infringing your copyrights. |
+| [D. Copyright Infringement](#d-copyright-infringement) | This section talks about copyright infringement. |
 | [E. Intellectual Property Notice](#e-intellectual-property-notice) | This describes LIGO's rights in the Website and Services. |
 | [F. Additional Service Terms](#f-additional-service-terms) | We have a few specific rules for LIGO's features and products. |
 | [G. Disclaimer of Warranties](#g-disclaimer-of-warranties) | We provide our service as is, and we make no promises or guarantees about this service. **Please read this section carefully; you should understand what to expect.** |
@@ -36,7 +36,7 @@ Based on a fork of the GitHub Terms of Service, with thanks.
 ### A. Definitions
 **Short version:** *We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.*
 
-1. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the LIGO Privacy Statement, available at [github.com/site/privacy](https://github.com/site/privacy)) and procedures that we may publish from time to time on the Website. Most of our site policies are available at [help.github.com/categories/site-policy](/categories/site-policy/).
+1. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the LIGO Privacy Statement, available at [ligolang.org/ADDURL](https://ligolang.org/ADDURL)) and procedures that we may publish from time to time on the Website.
 2. “Content” refers to content featured or displayed through the Website, including without limitation code, text, data, articles, images, photographs, graphics, software, applications, packages, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users. "Your Content" is Content that you create or own.
 3. “LIGO,” “We,” and “Us” refer to Ligo LANG SASU (128 rue de la Boetie, 75008, Paris), as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, employees and authorized contributors.
 4. The “Service” refers to the applications, software, products, and services provided by LIGO.
@@ -149,7 +149,7 @@ You agree to indemnify us, defend us, and hold us harmless from and against any 
 ### J. Changes to These Terms
 **Short version:** *We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them.*
 
-We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. We will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. For non-material modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service. You can view all changes to these Terms in our [Site Policy](https://github.com/github/site-policy) repository.
+We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. We will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. For non-material modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service.
 
 We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice.
 
@@ -165,7 +165,7 @@ Throughout this Agreement, each section includes titles and brief summaries of t
 If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties’ original intent. The remaining portions will remain in full force and effect. Any failure on the part of LIGO to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision. Our rights under this Agreement will survive any termination of this Agreement.
 
 #### 4. Amendments; Complete Agreement
-This Agreement may only be modified by a written amendment signed by an authorized representative of LIGO, or by the posting by LIGO of a revised version in accordance with [Section Q. Changes to These Terms](#q-changes-to-these-terms). These Terms of Service, together with the LIGO Privacy Policy, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and LIGO relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
+This Agreement may only be modified by a written amendment signed by an authorized representative of LIGO, or by the posting by LIGO of a revised version in accordance with [Section Q. Changes to These Terms](#j-changes-to-these-terms). These Terms of Service, together with the LIGO Privacy Policy, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and LIGO relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
 
 #### 5. Survival
 All provisions of this Agreement which, by their nature, should survive termination *will* survive termination — including, without limitation: ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
