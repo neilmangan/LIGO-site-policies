@@ -39,7 +39,7 @@ While using the Service, under no circumstances will you:
 
 - use our servers to disrupt or to attempt to disrupt, or to gain or to attempt to gain unauthorized access to, any service, device, data, account or network (unless authorized by LIGO for lawful purposes, such as a security audit, review or bug bounty);
 
-- impersonate any person or entity, including any of our employees or representatives, including through false association with LIGO, or by fraudulently misrepresenting your identity or site's purpose; or
+- impersonate any person or entity, including any of our employees, representatives or contributors, including through false association with LIGO, or by fraudulently misrepresenting your identity or site's purpose; or
 
 - violate the privacy of any third party, such as by posting another person's personal information without consent.
 
