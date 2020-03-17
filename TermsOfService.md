@@ -85,7 +85,7 @@ You retain all moral rights to Your Content that you upload, publish, or submit 
 To the extent this agreement is not enforceable by applicable law, you grant LIGO the rights we need to use Your Content without attribution and to make reasonable adaptations of Your Content as necessary to render the Website and provide the Service.
 
 ### D. Copyright Infringement
-If you believe that content on our website violates your copyright, please contact. If you are a copyright owner and you believe that content published by LIGO or contained in the Website or Services violates your rights, please contact us by emailing contact@ligolang.org. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
+If you believe that content on our website violates your copyright, please contact us. If you are a copyright owner and you believe that content published by LIGO or contained in the Website or Services violates your rights, please contact us by emailing contact@ligolang.org. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
 
 ### E. Intellectual Property Notice
 **Short version:** *We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.*
@@ -97,7 +97,7 @@ Notwithstanding LIGO's ownership of the Content set out above, the LIGO project 
 
 #### 2. Additional Copyrights, Terms of Use and Licenses May Apply
 
-**Short version:** *We love open source, and these Terms of Service are not intended to limit or circumvent the open source licensing terms of the LIGO project, or any other projects. We also don't intend to step on any toes by asseting rights over other open source projects. Use other people's work at your own risk, and in accordance with the terms they choose to publish under.*
+**Short version:** *We love open source, and these Terms of Service are not intended to limit or circumvent the open source licensing terms of the LIGO project, or any other projects. We also don't intend to step on any toes by asserting rights over other open source projects. Use other people's work at your own risk, and in accordance with the terms they choose to publish under.*
 
 Use of source code, applications and other software published by LIGO (see, for example, the [LIGO project repository](https://gitlab.com/ligolang/ligo)) or made accessible through the Website or Services may be subject to separate licencing, copyright and terms of use. Where there is a conflict between these Terms of Service and the terms of use or copyright published with respect to any specific LIGO source code, application or software, the specific terms will prevail. LIGO does not warrant or assert any ownership rights over third party source code, applications or software. 
 
@@ -106,15 +106,15 @@ Use of source code, applications and other software published by LIGO (see, for 
 We’re always trying to improve of products and services, and your feedback will help us do that. If you choose to give us any ideas, know-how, algorithms, code contributions, suggestions, enhancement requests, recommendations or any other feedback for our products or services (collectively, “Feedback”), you acknowledge and agree that LIGO will have a royalty-free, fully paid-up, worldwide, transferable, sub-licensable, irrevocable and perpetual license to implement, use, modify, commercially exploit and/or incorporate the Feedback into our products, services, and documentation.
 
 ### F. Additional Service Terms
-**Short version:** *Some features of the Services require that you comply with terms and conditions specific to those Services. We are grouping these special terms and conditions here for convenience.*
+**Short version:** *Some features of the Services require that you comply with additional terms and conditions specific to those Services. We are grouping these special terms and conditions here for convenience.*
 
-Some Service features may be subject to additional terms specific to that feature or product. By accessing or using the Services, you agree to be bound any special terms or conditions identified or expressly consented to when using the Service, and as set out below.
+Some Services may be subject to additional terms specific to a feature or product. By accessing or using the Services, you agree to be bound by the special terms and conditions set out below, and any additional special terms and conditions brought to your attention when using the Services.
 
 #### 1. Restrictions on Content Deployed to Blockchain
 
-**Short version:** *The Services include a compiler that can deploy to a public blockchain. Don't include any personal information in the compiled code deployed to the blockchain because this might violate privacy laws, including GDPR, as the information cannot be removed once deployed.*
+**Short version:** *The Services include a compiler and related tools that can deploy data to a public blockchain. Don't include any personal information in the source code, compiled code or data deployed to the blockchain because this might violate privacy laws, including GDPR, as the information cannot be changed or removed once deployed.*
 
-When using the LIGO compiler found at [ide.ligolang.org](https://ide.ligolang.org/), source code compiled using the **Deploy** command will be deployed to the Tezos test network blockchain. Once deployed, the compiled code is published to a publicly accessible ledger outside of LIGO's control and cannot be removed. As the compiled code cannot be deleted or removed, it must not contain any personal information or personally identifiable information.
+When using the LIGO compiler and tools found at [ide.ligolang.org](https://ide.ligolang.org/), source code compiled, and data provided when using the Deploy command will be deployed to the Tezos test network blockchain. Once deployed, the compiled code and data is published to a publicly accessible ledger outside of LIGO's control and cannot be changed or deleted. As the deployed code and data cannot be changed or deleted, it must not contain any personal information or personally identifiable information.
 
 ### G. Disclaimer of Warranties
 **Short version:** *We provide our service as is, and we make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect.*
@@ -149,9 +149,9 @@ You agree to indemnify us, defend us, and hold us harmless from and against any 
 ### J. Changes to These Terms
 **Short version:** *We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them.*
 
-We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. We will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. For non-material modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service.
+We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. Minor changes may be made without notice, and We will notify You of material changes to this Agreement by posting a notice on our Website. Your continued use of the Website constitutes agreement to Our revisions of these Terms of Service.
 
-We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice.
+We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice. We will not be bound by any public statement or notice You make with respect to this Agreement unless we provide written confirmation of our agreement to be bound.
 
 ### K. Miscellaneous
 
