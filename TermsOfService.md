@@ -44,7 +44,7 @@ Based on a fork of the GitHub Terms of Service, with thanks.
 6. The “Website” refers to LIGO’s website located at [ligolang.org](https://ligolang.org/), and all content, services, and products provided by LIGO at or through the Website. It also refers to LIGO-owned subdomains of ligolang.org, such as [ide.ligolang.org](https://ide.ligolang.org/). Occasionally, websites owned or operated by LIGO may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
 
 ### B. Acceptable Use
-**Short version:** *LIGO is collaborative project with users and contributors from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, You must follow the terms of this section, which include some restrictions on content You can post, conduct on the service, and other limitations. In short, be excellent to each other.*
+**Short version:** *LIGO is collaborative project with users and contributors from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, You must follow the terms of this section, which include some restrictions on content You can post or input and other limitations. In short, be excellent to each other.*
 
 Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control or sanctions laws applicable to LIGO's operations, or other laws in Your jurisdiction. You are responsible for making sure that Your use of the Service is in compliance with laws and any applicable regulations.
 
@@ -54,25 +54,25 @@ You agree that You will not under any circumstances violate our [Acceptable Use 
 **Short version:** *You own content You create, but You allow Us certain rights to it, so that We can display and share the content You post. You still have control over Your content, and responsibility for it, and the rights You grant Us are limited to those We need to provide the service. We have the right to remove content if We need to.*
 
 #### 1. Responsibility for User-Generated Content
-You may create or upload User-Generated Content while using the Service. You are solely responsible for the content of, and for any harm resulting from, any User-Generated Content that You post, upload, link to or otherwise make available via the Service, regardless of the form of that Content. We are not responsible for any public display or misuse of Your User-Generated Content.
+You may create or upload User-Generated Content while using the Service. You are solely responsible for the content of, and for any harm resulting from, any User-Generated Content that You input, post, upload, link to or otherwise make available via the Service, regardless of the form of that Content. We are not responsible for any public display or misuse of Your User-Generated Content.
 
 #### 2. LIGO May Remove Content
 We do not pre-screen User-Generated Content, but We have the right (though not the obligation) to refuse or remove any User-Generated Content that, in our sole discretion, violates any LIGO terms or policies or is inconsistent with the LIGO community.
 
 #### 3. Ownership of Content, Right to Post, and License Grants
-You retain ownership of and responsibility for Your Content. If You're posting anything You did not create yourself or do not own the rights to, You agree that You are responsible for any Content You post; that You will only submit Content that You have the right to post; and that You will fully comply with any third party licenses relating to Content You post.
+You retain ownership of and responsibility for Your Content. If You're inputting or posting anything You did not create yourself or do not own the rights to, You agree that You are responsible for any Content You input or post; that You will only submit Content that You have the right to use; and that You will fully comply with any third party licenses relating to Content You use through the Services.
 
-Because You retain ownership of and responsibility for Your Content, We need You to grant Us — and other LIGO Users — certain legal permissions, listed in this agreement and policies incorporated by reference. These license grants apply to Your Content. If You upload Content that already comes with a license granting LIGO the permissions We need to run our Service, no additional license is required. You understand that You will not receive any payment for any of the rights granted in this Agreement. The licenses You grant to Us will end when You remove Your Content from our servers, unless other Users have used or forked it.
+Because You retain ownership of and responsibility for Your Content, We need You to grant Us — and other LIGO Users — certain legal permissions, listed in this agreement and policies incorporated by reference. These license grants apply to Your Content. If You upload Content that already comes with a license granting LIGO the permissions We need to run our Service, no additional license is required. You understand that You will not receive any payment for any of the rights granted in this Agreement. The licenses You grant to Us will end when You remove Your Content from our servers, unless you have used the Services to deploy Your Content to a public blockchain or other Users have copied it.
 
 #### 4. License Grant to Us
-We need the legal right to do things like host Your Content, publish it, and share it. You grant Us and our legal successors the right to store, parse, and display Your Content, and make incidental copies as necessary to render the Website and provide the Service. This includes the right to do things like copy it to our database and make backups; show it to You and other users; parse it into a search index or otherwise analyze it on our servers; share it with other users; and perform it, in case Your Content is something like music or video.
+We need the legal right to do things like host Your Content, publish it, deploy it and share it. You grant Us and our legal successors the right to store, parse, compile, deploy and display Your Content, and make incidental copies as necessary to render the Website and provide the Service. This includes the right to do things like copy it to our database and make backups; show it to You and other users; parse it into a search index or otherwise analyze it on our servers; deploy it to a public and immutable blockchain; share it with other users; and perform it, in case Your Content is something like music or video.
 
-This license does not grant LIGO the right to sell Your Content or otherwise distribute or use it outside of our provision of the Service.
+This license does not grant LIGO the right to sell Your Content or otherwise distribute or use it outside of our provision of the Services.
 
 #### 5. License Grant to Other Users
 Any User-Generated Content You post publicly, including issues, comments, source code retained for the purpose of generating shared links and compiled source code deployed to the blockchain or other servers outside of LIGO's control, may be viewed by others. 
 
-By sharing this User-Generated content publicly, You grant each User of LIGO and the LIGO Website and Services a nonexclusive, worldwide license to use, display, and perform Your Content and to reproduce Your Content. If You are uploading Content You did not create or own, You are responsible for ensuring that the Content You upload is licensed under terms that grant these permissions to other LIGO Users.
+By sharing or deploying this User-Generated content publicly, You grant each User of LIGO and the LIGO Website and Services a nonexclusive, worldwide license to use, display, and perform Your Content and to reproduce Your Content. If You are uploading Content You did not create or own, You are responsible for ensuring that the Content You upload is licensed under terms that grant these permissions to other LIGO Users.
 
 #### 6. Contributions Under Repository License
 Whenever You make a contribution to a repository containing notice of a license, You license Your contribution under the same terms, and You agree that You have the right to license Your contribution under those terms. If You have a separate agreement to license Your contributions under different terms, such as a contributor license agreement, that agreement will supersede.
@@ -103,41 +103,41 @@ Use of source code, applications and other software published by LIGO (see, for 
 
 #### 3. Feedback
 
-We’re always trying to improve of products and services, and Your feedback will help Us do that. If You choose to give Us any ideas, know-how, algorithms, code contributions, suggestions, enhancement requests, recommendations or any other feedback for our products or services (collectively, “Feedback”), You acknowledge and agree that LIGO will have a royalty-free, fully paid-up, worldwide, transferable, sub-licensable, irrevocable and perpetual license to implement, use, modify, commercially exploit and/or incorporate the Feedback into our products, services, and documentation.
+We’re always trying to improve of products and services, and Your feedback will help Us do that. If You choose to give Us any ideas, know-how, algorithms, code contributions, suggestions, enhancement requests, recommendations or any other feedback for our products or services (collectively, “Feedback”), You acknowledge and agree that LIGO will have a royalty-free, fully paid-up, worldwide, transferable, sub-licensable, irrevocable and perpetual license to implement, use, modify, publish under open source license, commercially exploit and/or incorporate the Feedback into our products, services, and documentation.
 
 ### F. Additional Service Terms
 **Short version:** *Some features of the Services require that You comply with additional terms and conditions specific to those Services. We are grouping these special terms and conditions here for convenience.*
 
-Some Services may be subject to additional terms specific to a feature or product. By accessing or using the Services, You agree to be bound by the special terms and conditions set out below, and any additional special terms and conditions brought to Your attention when using the Services.
+Some Services may be subject to additional terms specific to a feature or product. By accessing or using the Services, You agree to be bound by the special terms and conditions set out below, and any other additional special terms and conditions brought to Your attention when using the Services.
 
 #### 1. Restrictions on Content Deployed to Blockchain
 
 **Short version:** *The Services include a compiler and related tools that can deploy data to a public blockchain. Don't include any personal information in the source code, compiled code or data deployed to the blockchain because this might violate privacy laws, including GDPR, as the information cannot be changed or removed once deployed.*
 
-When using the LIGO compiler and tools found at [ide.ligolang.org](https://ide.ligolang.org/), source code compiled, and data provided when using the Deploy command will be deployed to the Tezos test network blockchain. Once deployed, the compiled code and data is published to a publicly accessible ledger outside of LIGO's control and cannot be changed or deleted. As the deployed code and data cannot be changed or deleted, it must not contain any personal information or personally identifiable information.
+When using the LIGO compiler and tools found at [ide.ligolang.org](https://ide.ligolang.org/), data and source code compiled when using the *Deploy* command will be deployed to the Tezos test network blockchain. Once deployed, the compiled code and data is published to a publicly accessible ledger outside of LIGO's control and cannot be changed or deleted. As the deployed code and data cannot be changed or deleted, it must not contain any personal information or personally identifiable information.
 
 ### G. Disclaimer of Warranties
-**Short version:** *We provide our service as is, and We make no promises or guarantees about this service. Please read this section carefully; You should understand what to expect.*
+**Short version:** *We provide our service as is, and We make no promises or guarantees about the Services. Please read this section carefully; You should understand what to expect.*
 
-LIGO provides the Website and the Service “as is” and “as available,” without warranty of any kind. Without limiting this, We expressly disclaim all warranties, whether express, implied or statutory, regarding the Website and the Service including without limitation any warranty of merchantability, fitness for a particular purpose, title, security, accuracy and non-infringement.
+LIGO provides the Website and the Services “as is” and “as available,” without warranty of any kind. Without limiting this, We expressly disclaim all warranties, whether express, implied or statutory, regarding the Website and the Service including without limitation any warranty of merchantability, fitness for a particular purpose, title, security, accuracy and non-infringement.
 
-LIGO does not warrant that the Service will meet Your requirements; that the Service will be uninterrupted, timely, secure, or error-free; that the information provided through the Service is accurate, reliable or correct; that any defects or errors will be corrected; that the Service will be available at any particular time or location; or that the Service is free of viruses or other harmful components. You assume full responsibility and risk of loss resulting from Your downloading and/or use of files, information, content or other material obtained from the Service.
+LIGO does not warrant that the Service will meet Your requirements; that the Service will be uninterrupted, timely, secure, or error-free; that the information provided through the Service is accurate, reliable or correct; that any defects or errors will be corrected; that the Service will be available at any particular time or location; or that the Service is free of viruses or other harmful components. You assume full responsibility and risk of loss resulting from Your downloading and/or use of files, information, content or other material obtained from the Service and Website.
 
 ### H. Limitation of Liability
-**Short version:** *We will not be liable for damages or losses arising from Your use or inability to use the service or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to You.*
+**Short version:** *We will not be liable for damages or losses arising from Your use or inability to use the Services or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to You.*
 
 You understand and agree that We will not be liable to You or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages, however arising, that result from
 
 - the use, disclosure, or display of Your User-Generated Content;
-- Your use or inability to use the Service;
-- any modification, price change, suspension or discontinuance of the Service;
-- the Service generally or the software or systems that make the Service available;
+- Your use or inability to use the Services;
+- any modification, price change, suspension or discontinuance of the Services;
+- the Website or Services generally or the software or systems that make the Services available;
 - unauthorized access to or alterations of Your transmissions or data;
-- statements or conduct of any third party on the Service;
-- any other user interactions that You input or receive through Your use of the Service; or
-- any other matter relating to the Service.
+- statements or conduct of any third party on the Services;
+- any other user interactions that You input or receive through Your use of the Services; or
+- any other matter relating to the Services or Website.
 
-Our liability is limited whether or not We have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose. We will have no liability for any failure or delay due to matters beyond our reasonable control.
+Our liability is limited whether or not We have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose. We will have no liability for any failure or delay, even where the matters were within our reasonable control.
 
 ### I. Release and Indemnification
 **Short version:** *You are responsible for Your use of the service. If You harm someone else or get into a dispute with someone else, We will not be involved.*
@@ -147,11 +147,11 @@ If You have a dispute with one or more Users, You agree to release LIGO from any
 You agree to indemnify us, defend us, and hold Us harmless from and against any and all claims, liabilities, and expenses, including attorneys’ fees, arising out of Your use of the Website and the Service, including but not limited to Your violation of this Agreement, provided that LIGO (1) promptly gives You written notice of the claim, demand, suit or proceeding; (2) gives You sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that You may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases LIGO of all liability); and (3) provides to You all reasonable assistance, at Your expense.
 
 ### J. Changes to These Terms
-**Short version:** *We want our users to be informed of important changes to our terms, but some changes aren't that important — We don't want to bother You every time We fix a typo. So while We may modify this agreement at any time, We will provide users with notice of any changes that affect their rights and give You time to adjust to them.*
+**Short version:** *We want our users to be informed of important changes to our terms, but some changes aren't that important — We don't want to bother You every time We fix a typo. So while We may modify this agreement at any time, We will provide users with notice of any material changes that affect their rights and give You time to adjust to them.*
 
-We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. Minor changes may be made without notice, and We will notify You of material changes to this Agreement by posting a notice on our Website. Your continued use of the Website constitutes agreement to Our revisions of these Terms of Service.
+We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. Minor changes may be made without notice, and We will notify You of material changes to this Agreement by posting a notice on our Website. Your continued use of the Website or Services constitutes agreement to Our revisions of these Terms of Service.
 
-We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice. We will not be bound by any public statement or notice You make with respect to this Agreement unless We provide written confirmation of our agreement to be bound.
+We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Services or Website (or any part of it) with or without notice. We will not be bound by any public statement or notice You make with respect to this Agreement unless We provide written confirmation of our agreement to be bound.
 
 ### K. Miscellaneous
 
@@ -165,7 +165,7 @@ Throughout this Agreement, each section includes titles and brief summaries of t
 If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties’ original intent. The remaining portions will remain in full force and effect. Any failure on the part of LIGO to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision. Our rights under this Agreement will survive any termination of this Agreement.
 
 #### 4. Amendments; Complete Agreement
-This Agreement may only be modified by a written amendment signed by an authorized representative of LIGO, or by the posting by LIGO of a revised version in accordance with [Section J. Changes to These Terms](#j-changes-to-these-terms). These Terms of Service, together with the LIGO Privacy Policy, represent the complete and exclusive statement of the agreement between You and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between You and LIGO relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
+This Agreement may only be modified by a written amendment signed by an authorized representative of LIGO, or by the posting by LIGO of a revised version in accordance with [Section J. Changes to These Terms](#j-changes-to-these-terms). These Terms of Service, together with the LIGO Privacy Policy, represent the complete and exclusive statement of the agreement between You and Us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between You and LIGO relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
 
 #### 5. Survival
 All provisions of this Agreement which, by their nature, should survive termination *will* survive termination — including, without limitation: ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
